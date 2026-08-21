@@ -1,0 +1,58 @@
+{
+  "name": "Mintlify Docs",
+  "logo": {
+    "dark": "/logo/dark.svg",
+    "light": "/logo/light.svg"
+  },
+  "favicon": "/favicon.svg",
+  "colors": {
+    "primary": "#0D9373",
+    "light": "#07C983",
+    "dark": "#0D9373",
+    "ultraLight": "#F0F8F7",
+    "ultraDark": "#081F1C"
+  },
+  "topbarLinks": [
+    {
+      "name": "Support",
+      "url": "mailto:support@example.com"
+    }
+  ],
+  "topbarCtaButton": {
+    "name": "Get Started",
+    "url": "https://github.com"
+  },
+  "anchors": [
+    {
+      "name": "Documentation",
+      "icon": "book-open",
+      "url": "docs"
+    },
+    {
+      "name": "GitHub",
+      "icon": "github",
+      "url": "https://github.com/shivanshsethios"
+    }
+  ],
+  "navigation": [
+    {
+      "group": "Getting Started",
+      "pages": [
+        "introduction",
+        "quickstart"
+      ]
+    },
+    {
+      "group": "Features",
+      "pages": [
+        "features/overview",
+        "features/advanced"
+      ]
+    }
+  ],
+  "footerSocials": {
+    "twitter": "https://twitter.com",
+    "github": "https://github.com/shivanshsethios",
+    "linkedin": "https://linkedin.com"
+  }
+}
